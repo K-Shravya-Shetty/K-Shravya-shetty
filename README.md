@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/@19sb610" target="blank"><img src="https://img.shields.io/twitter/follow/@19sb610?logo=twitter&style=for-the-badge" alt="@19sb610" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and Python**
+- 🌱 I’m currently working at UST Global as a software developer.
+- I have complete 1 year internship at **Dell Technologies**
 
-- 📫 How to reach me **21j14.shravya@sjec.ac.in**
+- 📫 How to reach me **kshravyashetty@gmail.com**
 
-- ⚡ Fun fact **I love reading books**
+- ⚡ Fun fact **I love reading books, Crocheting and trying out new hobbies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@19sb610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@19sb610" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k shravya shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k shravya shetty" height="30" width="40" /></a>
 <a href="https://instagram.com/k_shravya_shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_shravya_shetty" height="30" width="40" /></a>
 </p>
